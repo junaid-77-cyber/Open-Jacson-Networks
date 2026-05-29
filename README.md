@@ -7,12 +7,9 @@ To find (a) average number of materials in the system (b) average number of mate
 Visual components and Python
 
 ## Theory
-
 ![image](https://user-images.githubusercontent.com/103921593/203239736-7b81f599-71a8-4ae7-b63e-5d98acd9ea54.png)
 
-
 ## Procedure :
-
 ![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
 
 ## Program
@@ -55,7 +52,7 @@ print("Warning!ObjectsOver flowwillhappenintheconveyor")
 print("----------------------------------------------------------------------")
 ```
 ## Output
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## Result
 Thus, the program has been executed successfully and the required parameters have been calculated as per the given conditions
