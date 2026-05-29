@@ -1,3 +1,5 @@
+# Name: Junaid Sardar S
+# Register Number: 212224100028
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
